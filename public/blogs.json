@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/8xYwQ6T/blog1.jpg",
+    "title": "Mastering JavaScript ES6 Features",
+    "author": "John Doe",
+    "author_img": "https://i.ibb.co/2kR5zqX/author1.jpg",
+    "posted_date": "2026-05-10",
+    "reading_time": "5 min read",
+    "hashtags": ["#javascript", "#es6", "#webdev"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/jrRb11q/blog2.jpg",
+    "title": "Understanding React Hooks Easily",
+    "author": "Sarah Smith",
+    "author_img": "https://i.ibb.co/q1L0k8M/author2.jpg",
+    "posted_date": "2026-05-11",
+    "reading_time": "7 min read",
+    "hashtags": ["#react", "#hooks", "#frontend"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/4pDNDk1/blog3.jpg",
+    "title": "Tailwind CSS for Beginners",
+    "author": "Michael Lee",
+    "author_img": "https://i.ibb.co/7N8xK3L/author3.jpg",
+    "posted_date": "2026-05-12",
+    "reading_time": "4 min read",
+    "hashtags": ["#tailwindcss", "#css", "#design"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/0V9Jm7m/blog4.jpg",
+    "title": "How to Build Responsive Websites",
+    "author": "Emily Johnson",
+    "author_img": "https://i.ibb.co/F0s3w7L/author4.jpg",
+    "posted_date": "2026-05-13",
+    "reading_time": "6 min read",
+    "hashtags": ["#responsive", "#html", "#webdesign"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/ZYW3VTp/blog5.jpg",
+    "title": "A Complete Guide to Async Await",
+    "author": "David Brown",
+    "author_img": "https://i.ibb.co/3hJq9G4/author5.jpg",
+    "posted_date": "2026-05-14",
+    "reading_time": "8 min read",
+    "hashtags": ["#async", "#javascript", "#coding"]
+  }
+]
